@@ -1,0 +1,158 @@
+@media (max-width:1440px) {
+    .container {  max-width: 1300px!important; padding: 0 15px; margin: 0 auto;}
+    .container-fluid { max-width: 1380px;}    
+    
+
+    .main_header_sec .main_navbar_sec { width: calc(100% - 10%);}
+    .main_header_sec .form-inline {width: 17%;}   
+    .main_navbar_sec{padding: 1rem 0!important;}
+    .main_body_bg { background-size: 50% auto, 100% , cover; }
+    .main_navbar_sec .navbar-nav .nav-item a { font-size: 16px;  line-height: normal;}    
+    .right_Side_text h5 , .left_side_text h5 {font-size: 40px;line-height: 126%;}
+    .right_Side_text p , .left_side_text p {   font-size: 13px; line-height: 170%;}
+    .right_main_img img{max-width: 600px;height: auto;}   
+    .side_box_sec h6 { font-size: 11px; line-height: 150%;}
+    .side_box_sec p { font-size: 12px;  line-height: 160%;}
+    .best_feture_sec {  margin: 250px 0 0 0; background-size: 100% 100%;}
+    .before_text h6 { font-size: 18px; line-height: 140%; }
+    .main_team_member img { max-width: 130px; height: 130px; }
+    .main_team_member h5 {  font-size: 18px; line-height: 150%;}
+    .main_team_member p { font-size: 14px; line-height: 160%;}
+    .main_btm_sec{background-size: contain;}
+    .linked_pages a { font-size: 15px; margin-left: 1.5rem;}
+    .linked_icons a i {font-size: 22px; height: 45px; width: 45px;}
+    .copy_right_Sec p { font-size: 15px;  line-height: 170%;}
+    .main_right_img  img{max-width: 300px;height: auto;}
+
+
+    /* blog */
+    .margin_sec { margin-top: 2rem;}
+    .main_blog_box h5 { font-size: 16px;  line-height: 150%;}
+    .main_blog_box p {font-size: 12px;line-height: 150%;}
+    .bttonn_know button.btn_know { font-size: 13px;}
+    .blog_img_main img{max-width: 500px;height: auto;}
+    .blog_img_main{text-align: center;}
+    
+
+
+
+}
+
+
+
+@media (max-width:1199px) {
+
+
+    .container {max-width: 950px!important; padding: 0 15px; margin: 0 auto;}
+    .container-fluid { max-width: 1000px;}
+
+    .main_header_sec .main_navbar_sec { width: calc(100% - 2%);}    
+    .main_header_sec .form-inline { width: 22%;}
+    .main_body_bg {background-size: 40% auto, 100% , cover;}    
+    .right_main_img img { max-width: 460px; height: auto;}
+    .navbar-brand img{max-width: 120px;height: auto;}
+    .main_navbar_sec .navbar-nav .nav-item a { font-size: 14px;}
+    button.login_btn { font-size: 12px; line-height: 14px;  padding: 1rem 1.5rem;}
+    .right_Side_text h5, .left_side_text h5 { font-size: 30px; line-height: 110%;}
+    .right_Side_text p, .left_side_text p {font-size: 12px; line-height: 160%;}
+    .app_btn a img{max-width: 120px;height: auto;}
+    .best_feture_sec {  margin: 100px 0 0 0; background-size: cover; background-position: center; padding: 150px 0;}
+    .main_right_img img {max-width: 220px; height: auto;}
+    .main_team_member img { max-width: 100px; height: 100px; }
+    .main_team_member { padding: 1rem 1.2rem;}
+    .main_team_member h5 {font-size: 15px; line-height: 150%;}
+    .main_team_member p {font-size: 12px; line-height: 150%;}
+    .main_right_img { padding: 130px 0px 100px 0;}
+    .linked_icons a i {font-size: 18px; height: 40px; width: 40px;}
+    .copy_right_Sec p { font-size: 13px;  line-height: 160%;}
+    .linked_pages a {  font-size: 13px; margin-left: 1rem;}
+
+
+    /* blog */
+    .blog_img_main img { max-width: 450px; height: auto;}
+    .margin_sec {  margin-top: 0rem; }
+
+
+    /* privercy policy */
+    .main_body_bg.other_pages_bg {  background-size: 42%, auto , auto;  background-position: right -140px top -150px, top , top;}
+    
+
+}
+
+
+@media (max-width:991px){
+
+    .container {max-width: 720px!important; padding: 0 15px; margin: 0 auto;}
+    .container-fluid { max-width: 750px;}  
+
+    .main_header_sec .form-inline { width: 32%;}    
+    .main_header_sec .container{position: relative;}
+    .right_main_img { text-align: end; margin-top: -3rem; margin-bottom: 3rem;}
+    .navbar-toggler i{color: #fff;}
+    .main_header_sec .main_navbar_sec { position: unset;}  
+    .main_header_sec #navbarTogglerDemo03{ top: 160px; background: #fff; 
+        box-shadow: 0px 10px 20px #0000009e; width: 80%; z-index: 11;border-radius: 30px; text-align: center; position: absolute;  left: 50%;
+    transform: translate(-50%, 0%); }
+    .main_navbar_sec .navbar-nav .nav-item a { padding: 0.8rem 0rem;}
+    .side_box_sec p { font-size: 10px; line-height: 150%; }
+    .side_box_sec svg{max-width: 45px;height: auto;}
+    .best_feture_sec {padding: 100px 0;}
+    .right_Side_text h5, .left_side_text h5 {font-size: 25px;  line-height: 110%;}
+    .right_Side_text p, .left_side_text p {font-size: 11px; line-height: 150%;}
+    .main_right_img {  padding: 100px 0px 100px 0;}
+    .main_right_img img { max-width: 170px;  height: auto;}
+    .main_team_member img { max-width: 60px;height: 60px; margin-top: -50px;}
+    .main_team_member h5 { font-size: 13px; line-height: 130%;}
+    .main_team_member p { font-size: 10px; line-height: 150%;}
+    .main_team_member .linked_sec i { font-size: 10px; width: 22px; height: 22px;}   
+    .btm_footer_text p {  font-size: 12px;  line-height: 160%;}
+    .input_sec button.btn_subscribe { font-size: 12px;}
+
+
+    /* blog */
+    .blog_img_main img { max-width: 300px; height: auto;}
+
+
+    /* privercy policy */
+    .main_body_bg.other_pages_bg {  background-size: 58%, auto , auto;
+        background-position: right -140px top -270px, top , top;}
+    
+    
+
+}
+
+
+@media (max-width:575px) {
+
+    .container {max-width: 400px!important;}
+    .container-fluid { max-width: 1380px;}
+
+    .main_body_bg { background-size: 80% auto, 100% , cover;}    
+    .right_main_img img { max-width: 300px;  height: auto;}
+    .navbar-brand img {  max-width: 90px; height: auto;}
+    .main_header_sec .form-inline { width: 80%;}
+    button.login_btn { font-size: 12px;line-height: 14px; padding: 1rem 1rem;}
+    .main_team_member {padding: 1rem 1rem;margin: 3rem 0 2rem 0;}
+    .main_btm_sec { background-image: unset; }
+    .input_sec {width: 100%;flex-wrap: wrap;}
+    .input_sec .form-control {  width: 100%;margin-bottom: 1rem;}
+    .input_sec button.btn_subscribe { width: 100%;}
+    .linked_icons{justify-content: center;margin-bottom: 1rem;}
+    .linked_pages{text-align: center;}
+    .main_header_sec #navbarTogglerDemo03 {top: 130px;}
+
+
+      /* blog */
+      .blog_img_main img { max-width: 280px; height: auto;margin-bottom: 2rem;}
+
+    /* privercy policy */
+    .main_body_bg.other_pages_bg {  background-size: 102%, 100% , 100%; background-position: right -140px top -310px, top , top;}
+    
+    
+    
+    
+    
+    
+
+
+}
